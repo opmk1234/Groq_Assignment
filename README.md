@@ -32,7 +32,7 @@ Demonstrated with multiple sample inputs.
 
 Files
 
-Groq_Assignment.ipynb – Main Colab notebook with both tasks implemented.
+Conversation_Management (1).ipynb – Main Colab notebook with both tasks implemented.
 
 Usage
 
